@@ -1,4 +1,5 @@
 # <PreWork Study Guide Website>
+A study guide for course pre-work
 
 ## Description
 
